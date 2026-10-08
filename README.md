@@ -1,5 +1,5 @@
 # Lab01
-[View screenshot](screenshots/1.png)
+[screenshots/1.png]
 [View screenshot](screenshots/2.png)
 [View screenshot](screenshots/3.png)
 [View screenshot](screenshots/4.png)
